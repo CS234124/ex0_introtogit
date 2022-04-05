@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Green
+Favorite food: Tasty
+Favorite musician/band: Anyone buy you
+Favorite movie: No.
+Requested grade in the course: 100
