@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Pizza
+Favorite musician/band: Led Zepplin
+Favorite movie: Star Wars
+Requested grade in the course: 100
