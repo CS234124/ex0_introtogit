@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: light blue
+Favorite food: gnocchi
+Favorite musician/band: Pink Floyd
+Favorite movie: The wall
+Requested grade in the course: 100
