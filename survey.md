@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: White
+Favorite food: Hamburger
+Favorite musician/band: The Weekend
+Favorite movie:  The Pursuit of Happyness
+Requested grade in the course: 92
